@@ -23,13 +23,12 @@ Reach me at tmkirankumar07@gmail.com
 
 ---
 ### Previous Project
-🌱  Developed mobile application with integration of health data and game into the mobile gaming platform - Gaming for Health: </a> https://github.com/tm-kiran-kumar/MedQuiz
+🌱  Developed mobile application with integration of health data and game into the mobile gaming platform - <a href="https://github.com/tm-kiran-kumar/MedQuiz">Gaming for Health</a>
 
 ---
 ### Github Stats  
 ![Kiran's GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=tm-kiran-kumar&show_icons=true&include_all_commits=true&theme=dracul)   
 ![Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=tm-kiran-kumar&layout=compact)
-
 
 ---
 <h3 align="left">Connect with me:</h3>
