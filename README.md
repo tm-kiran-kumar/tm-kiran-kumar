@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" alt="Kiran Kumar | Quality Automation Banner" width="100%">
+  <img src="banner1.png" alt="Kiran Kumar | Quality Automation Banner" width="100%">
 </p>
 
 <h1 align="center">Hi 👋 </h1>
