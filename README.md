@@ -1,7 +1,6 @@
 <p align="center"><img src="banner1.png" alt="Kiran Kumar | Quality Automation Banner" width="100%"> </p>
 
 ---
-### About Me
 <h1 align="center">Hi 👋 I'm Kiran </h1>
 
 🔭 Focus: Developing high-performance, scalable testing automation frameworks.
@@ -19,19 +18,23 @@ Reach me at tmkirankumar07@gmail.com
 
 ---
 ### Current Project
+
 🌱 [Job Automation Engine](repo update soon....): A production-ready Selenium framework that automates job discovery and application processes using dynamic waits and secure credential management.
 
 ---
 ### Previous Project
+
 🌱  Developed mobile application with integration of health data and game into the mobile gaming platform - <a href="https://github.com/tm-kiran-kumar/MedQuiz">Gaming for Health</a>
 
 ---
 ### Github Stats  
+
 ![Kiran's GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=tm-kiran-kumar&show_icons=true&include_all_commits=true&theme=dracul)   
 ![Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=tm-kiran-kumar&layout=compact)
 
 ---
-<h3 align="left">Connect with me:</h3>
+### Connect with me
+
 <p align="left">
 <a href="https://linkedin.com/in/tmkirankumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tmkirankumar" height="30" width="40" /></a> <a href="https://dev.to/tmkirankumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="tmkirankumar" height="30" width="40" /></a> <a href="https://instagram.com/tmkirankumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tmkirankumar" height="30" width="40" /></a>
 </p>
