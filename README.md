@@ -27,7 +27,7 @@ Reach me at tmkirankumar07@gmail.com
 
 ---
 ### Github Stats  
-![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=tmkirankumar&count_private=true)
+![Kiran's GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=tmkirankumar&show_icons=true&include_all_commits=true&theme=dracul)
 
 
 ---
