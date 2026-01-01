@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Banner.png" alt="Kiran Kumar Banner" width="100%">
+  <img src="Banner.png" alt="Kiran Kumar | Quality Automation Banner" width="100%">
 </p>
 
 <h1 align="center">Hi 👋, I'm Kiran Kumar | SDET & Automation Engineer </h1>
