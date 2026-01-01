@@ -4,11 +4,11 @@
 ### About Me
 <h1 align="center">Hi 👋 I'm Kiran </h1>
 
-🔭 I'm currently working on building high-performance automation solutions in testing.
+🔭 Focus: Developing high-performance, scalable testing automation frameworks.
 
-🌱 I'm currently learning on automating testing, integration, and deployment.
+🌱 Learning: Deep-diving into automated integration and deployment.
 
-👯 I'm looking to collaborate on open source projects.
+👯 Collaborating: Actively looking to contribute to testing libraries and automation tools.
 
 Reach me at tmkirankumar07@gmail.com
 
