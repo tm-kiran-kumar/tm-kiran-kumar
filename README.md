@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tm-kiran-kumar" alt="tm-kiran-kumar" /></a> </p>
 
-- 🌱 I’m currently learning more into **Automation**
+- 🌱 I’m currently building a Production-Ready Python Selenium Framework
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -21,3 +21,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tm-kiran-kumar&" alt="tm-kiran-kumar" /></p>
 
+## 🎯 2026 Roadmap
+- [ ] Complete Python Selenium POM Framework
+- [ ] Integrate GitHub Actions for Automated Testing
+- [ ] Contribute to 5 Open Source Testing Tools
