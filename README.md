@@ -27,11 +27,8 @@ Reach me at tmkirankumar07@gmail.com
 
 ---
 ### Github Stats  
-![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=tmkirankumar)
+![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=tmkirankumar&count_private=true)
 
-
-
-![GitHub Stats](https://streak-stats.demolab.com/?user=tmkirankumar)
 
 ---
 <h3 align="left">Connect with me:</h3>
