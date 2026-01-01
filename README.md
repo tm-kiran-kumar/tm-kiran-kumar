@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="Banner.png" alt="Kiran Kumar Banner" width="100%">
+</p>
+
 <h1 align="center">Hi 👋, I'm Kiran Kumar | SDET & Automation Engineer </h1>
 <align="left">I am a Quality Assurance Engineer focused on building high-performance automation solutions. Currently, I am specializing in Python-based testing frameworks and DevOps integration to accelerate software delivery cycles.</a>
 
