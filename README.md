@@ -3,7 +3,8 @@
 </p>
 
 <h1 align="center">Hi 👋 </h1>
-<align="left">I am a QA Engineer focused on building high-performance automation solutions. Currently, I am specializing in Python-based testing frameworks and DevOps integration to accelerate software delivery cycles.</a>
+<align="left">I'm currently working as QA Engineer focused on building high-performance automation solutions.</a>
+<align="left">I recently built a mobile application for medication with combination of game for younger age persons.</a>
 
 
 <h3 align="left">Current Project:</h3>
