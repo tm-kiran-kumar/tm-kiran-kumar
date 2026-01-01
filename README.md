@@ -3,8 +3,10 @@
 </p>
 
 <h1 align="center">Hi 👋 </h1>
-<align="left">I'm currently working as QA Engineer focused on building high-performance automation solutions.</a>
-<align="left">I recently built a mobile application for medication with combination of game for younger age persons.</a>
+
+- I'm currently working as QA Engineer focused on building high-performance automation solutions. </a>
+
+- I recently built a mobile application for medication with combination of game for younger age persons. </a>
 
 
 <h3 align="left">Current Project:</h3>
