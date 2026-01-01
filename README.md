@@ -4,11 +4,11 @@
 
 <h1 align="center">Hi 👋 I'm Kiran </h1>
 
-🔭 **I'm currently working on building high-performance automation solutions in testing.**
+🔭 I'm currently working on building high-performance automation solutions in testing.
 
-🌱 **I'm currently learning on automating testing, integration, and deployment.**
+🌱 I'm currently learning on automating testing, integration, and deployment.
 
-👯 I'm looking to collaborate on **open source projects**
+👯 I'm looking to collaborate on open source projects.
 
 Reach me at tmkirankumar07@gmail.com
 
