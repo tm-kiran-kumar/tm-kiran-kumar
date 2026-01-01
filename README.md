@@ -1,14 +1,10 @@
 <p align="center">
-  <img src="Banner.png" alt="Kiran Kumar | Quality Automation Banner" width="100%">
+  <img src="banner.png" alt="Kiran Kumar | Quality Automation Banner" width="100%">
 </p>
 
-<h1 align="center">Hello 👋 </h1>
-<align="left">I am a Quality Assurance Engineer focused on building high-performance automation solutions. Currently, I am specializing in Python-based testing frameworks and DevOps integration to accelerate software delivery cycles.</a>
+<h1 align="center">Hi 👋 </h1>
+<align="left">I am a QA Engineer focused on building high-performance automation solutions. Currently, I am specializing in Python-based testing frameworks and DevOps integration to accelerate software delivery cycles.</a>
 
-
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=tm-kiran-kumar&label=Profile%20views&color=0e75b6&style=flat" alt="tm-kiran-kumar" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tm-kiran-kumar" alt="tm-kiran-kumar" /></a> </p>
 
 <h3 align="left">Current Project:</h3>
 🌱 [Job Automation Engine](repo update soon....): A production-ready Selenium framework that automates job discovery and application processes using dynamic waits and secure credential management.
