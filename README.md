@@ -6,7 +6,7 @@
 
 - I'm currently working as QA Engineer focused on building high-performance automation solutions. </a>
 
-- I recently built a mobile application for medication with combination of game for younger age persons. </a>
+- I recently built a mobile application with integration of health data and mobile game into the mobile gaming platform. </a>
 
 
 <h3 align="left">Current Project:</h3>
@@ -26,6 +26,10 @@
 - [ ] Complete Python Selenium Framework Job Automation Engine.
 - [ ] Contribute to the Selenium or Pytest core documentation.
 - [ ] Master Playwright as a secondary automation tool.
+
+<h3 align="left">Previous Project:</h3>
+-  Gaming for Health: https://github.com/tm-kiran-kumar/MedQuiz. </a>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
