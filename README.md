@@ -38,5 +38,4 @@ Reach me at tmkirankumar07@gmail.com
 </p>
 
 ### Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=tmkirankumar&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tmkirankumar&show_icons=true&theme=radical)
