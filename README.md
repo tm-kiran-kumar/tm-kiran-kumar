@@ -7,7 +7,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tm-kiran-kumar" alt="tm-kiran-kumar" /></a> </p>
 
 <h3 align="left">Current Project:</h3>
-🌱 **[Job Automation Engine](https://github.com/tm-kiran-kumar/)**: A production-ready Selenium framework that automates job discovery and application processes using dynamic waits and secure credential management.
+🌱 **[Job Automation Engine](repo update soon..)**: A production-ready Selenium framework that automates job discovery and application processes using dynamic waits and secure credential management.
 
 
 <h3 align="left">Technical Stack - Languages and Tools:</h3>
